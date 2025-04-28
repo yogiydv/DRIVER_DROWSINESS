@@ -13,7 +13,8 @@ The Driver Drowsiness Detection System is a Python-based project designed to det
 ### Example of Drowsiness Detection
 Below is an example of the system detecting closed eyes and triggering an alert:
 
-![Drowsiness Detection Screenshot](image.png.png)
+![Drowsiness Detection Screenshot](image1.png)
+![Drowsiness Detection Screenshot](image2.png)
 
 ## Setup and Installation
 Follow the steps below to set up and run the project:
