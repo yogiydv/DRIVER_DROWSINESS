@@ -45,6 +45,12 @@ python main.py
 
 How It Works:
 >The system uses a webcam to capture the driver's face in real time.
+
+
 >Facial landmarks are detected to monitor the driver's eyes and mouth.
+
+
 >The system analyzes eye closure duration and yawning frequency to detect drowsiness.
+
+
 >If drowsiness is detected, an alert (sound or visual) is triggered.
