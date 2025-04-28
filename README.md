@@ -31,19 +31,25 @@ Follow the steps below to set up and run the project:
    ```bash
    git clone https://github.com/yogiydv/DRIVER_DROWSINESS.git
    cd DRIVER_DROWSINESS
+   
 Install Dependencies: Use the requirements.txt file to install all necessary dependencies:
 
 bash
 pip install -r requirements.txt
+
 If the requirements.txt file is not available, manually install the dependencies:
 
 bash
 pip install opencv-python dlib numpy 
+
 Run the Application: Launch the main script:
+
 bash
+
 python main.py
 
 How It Works:
+
 >The system uses a webcam to capture the driver's face in real time.
 
 
